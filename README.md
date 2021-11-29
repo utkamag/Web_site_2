@@ -2,4 +2,4 @@
 
 Ссылка на проект: 
 
-![](Img/screenchot/screenshot.png)
+![](Img/screenshot/screenshot.png)
